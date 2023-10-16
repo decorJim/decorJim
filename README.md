@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a graduating student at Polytechnique Montreal.
+- 🌱 I’m currently learning aws cloud services and data engineering.
+- I’m interested in learning about devops technology.
+- I’m looking for a fulltime opportunity related to software engineering ...
+- How to reach me: https://www.linkedin.com/in/tommy-st-hubert-92838039209830998950/
+- ⚡ Fun fact: I love coding 😃 
+
 <!--
 **decorJim/decorJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
