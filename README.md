@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a graduating student at Polytechnique Montreal.
+- 🔭 I’m a software engineer and a alumni of Polytechnique Montreal.
 - 🌱 I’m currently learning aws cloud services and data engineering.
 - I’m interested in learning about DevOps technology.
 - I’m currently looking for a fulltime opportunity related to software engineering ...
