@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a software engineer and a alumni of Polytechnique Montreal.
-- 🌱 I’m currently learning aws cloud services and data engineering.
+- 🔭 I’m a software engineer and a alumni of Polytechnique Montreal specializing in fullstack development and cloud computing.
+- 🌱 I’m currently learning data engineering.
 - I’m interested in learning about DevOps technology.
 - I’m currently looking for a fulltime opportunity related to software engineering ...
 - How to reach me: https://www.linkedin.com/in/tommy-st-hubert-92838039209830998950/
