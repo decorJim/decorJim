@@ -2,7 +2,7 @@
 
 - 🔭 I’m a software engineer and a alumni of Polytechnique Montreal specializing in fullstack development and cloud computing.
 - 🌱 I’m currently learning data engineering.
-- I’m interested in learning about DevOps technology.
+- I’m interested in learning about Cloud technology.
 - I’m currently looking for a fulltime opportunity related to software engineering ...
 - How to reach me: https://www.linkedin.com/in/victor-k-92838039209830998950/
 - ⚡ Fun fact: I love coding 😃 
