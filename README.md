@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data engineering.
 - I’m interested in learning about DevOps technology.
 - I’m currently looking for a fulltime opportunity related to software engineering ...
-- How to reach me: https://www.linkedin.com/in/tommy-st-hubert-92838039209830998950/
+- How to reach me: https://www.linkedin.com/in/victor-k-92838039209830998950/
 - ⚡ Fun fact: I love coding 😃 
 - 💬 Ask me about anything about Python, Java, Javascript, Typescript, NodeJs, C/C++
 <!--
