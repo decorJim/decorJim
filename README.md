@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m a software engineer and a alumni of Polytechnique Montreal specializing in fullstack development and cloud computing.
-- 🌱 I’m currently learning data engineering.
+- 🌱 I’m currently learning DevOps, SRE, Linux, Jenkins, Grafana.
 - I’m interested in learning about Cloud technology.
-- I’m currently looking for a fulltime opportunity related to software engineering ...
+- I’m currently looking for a fulltime opportunity related to software engineering, production support, SRE ...
 - How to reach me: https://www.linkedin.com/in/victor-k-92838039209830998950/
 - ⚡ Fun fact: I love coding 😃 
 - 💬 Ask me about anything about Python, Java, Javascript, Typescript, NodeJs, C/C++
